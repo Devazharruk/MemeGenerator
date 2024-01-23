@@ -16,9 +16,6 @@ Open index.html in a web browser.
 Click the "Generate Meme" button to load a new meme.
 Enjoy the displayed meme along with its author and title.
 
-# Preview <br>
-![Meme Generator App Preview](images\memes-app-preview.PNG)
-
 ## Contributing 
 Feel free to contribute to the development of this app. Fork the repository, make your changes, and submit a pull request.
 
